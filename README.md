@@ -1,4 +1,4 @@
-# Predicting wildfire spread using deep learning models
+# Predicting wildfire spread using Spatio-Temporal Deep Learning models
 
 ## Usage
 
